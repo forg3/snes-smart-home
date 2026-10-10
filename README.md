@@ -117,8 +117,7 @@ snes-smart-home/
 ├── docs/                      # Test documentation, captures, and architecture
 │   ├── screenshots/           # High-resolution photos and screen captures
 │   ├── architecture.md
-│   ├── pin-mapping.md         # Complete pin mapping and signaling
-│   └── test-plan.md
+│   └── pin-mapping.md         # Complete pin mapping and signaling
 │
 ├── scripts/                   # Rendering and build utilities
 │   └── generate_screenshots.py# Pixel-perfect and CRT screenshot generator

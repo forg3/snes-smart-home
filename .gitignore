@@ -43,3 +43,6 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# Regra do GitHub: pesquisa, prompt, plano e especificação ficam só na pasta local.
+/docs/test-plan.md
